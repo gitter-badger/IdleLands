@@ -7,8 +7,12 @@ class BossFactory
   constructor: (@game) ->
 
   createBoss: (name, forPlayer) ->
+    if not BossInformation.bosses[name]
+      console.error "[boss]",name,"is not defined correctly somewhere"
+      return
+
     currentTimer = BossInformation.timers[name]
-    respawnTimer = BossInformation.bosses[name].respawn or 3600
+    respawnTimer = BossInformation.bosses[name]?.respawn or 3600
 
     return if ((new Date) - currentTimer) < respawnTimer * 1000
 

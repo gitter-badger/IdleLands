@@ -57,12 +57,8 @@ class Battle
 
       player.fled = false
 
-      try
-        player.hp?.toMaximum()
-        player.mp?.toMaximum()
-      catch e
-        console.error e
-        console.error "FAILED TO SET HP ???? #{player.name}"
+      player.hp.toMaximum()
+      player.mp.toMaximum()
 
   initializePlayers: ->
     @calculateTurnOrder()

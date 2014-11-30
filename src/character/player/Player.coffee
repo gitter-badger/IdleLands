@@ -322,7 +322,7 @@ class Player extends Character
       @gainXp @calcXpGain 10 if currentStep < 5
 
     catch e
-      console.error "BAD LOCATION",e.stack
+      console.error "FAILED IN MOVE",e.stack
       @x = @y = 10
       @map = "Norkos"
 
@@ -369,7 +369,7 @@ class Player extends Character
 
   checkShop: ->
     @shop = null if @shop and ((not @getRegion()?.shopSlots()) or (@getRegion()?.name isnt @shop.region))
-    @shop = @playerManager.game.shopGenerator.regionShop @ if not @shop and @getRegion()?.shopSlots()
+    @shop = @playerManager.game.shopGenerator.regionShop @ if not @shop and @getRegion()?.shopSlots?()
 
   buyShop: (slot) ->
     if not @shop.slots[slot]
@@ -390,10 +390,15 @@ class Player extends Character
 
   takeTurn: ->
     steps = Math.max 1, @calc.haste()
-    @moveAction steps while steps-- isnt 0
-    @possiblyDoEvent()
-    @possiblyLeaveParty()
-    @checkShop()
+    try
+      @moveAction steps while steps-- isnt 0
+      @possiblyDoEvent()
+      @possiblyLeaveParty()
+      @checkShop()
+    catch e
+      console.log "FAILED"
+      console.error e.stack
+
     @save()
     @
 

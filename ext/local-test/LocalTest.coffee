@@ -6,7 +6,7 @@ _ = require "underscore"
 
 #### GAME CONSTANTS ####
 
-# change this if you want the console game to go faster
+# change this if you want the console game to go slower
 DELAY_INTERVAL = 1
 
 ########################
@@ -120,13 +120,10 @@ colorMap =
 
 ## API call functions ##
 loadIdle = ->
-  try
-    IdleWrapper.load()
-    IdleWrapper.api.game.handlers.colorMap colorMap
-    IdleWrapper.api.game.handlers.broadcastHandler broadcastHandler, null
-    do loadAllPlayers
-  catch e
-    console.error e
+  IdleWrapper.load()
+  IdleWrapper.api.game.handlers.colorMap colorMap
+  IdleWrapper.api.game.handlers.broadcastHandler broadcastHandler, null
+  do loadAllPlayers
 
 registerAllPlayers = ->
   _.each hashes, (playerHashInList) ->
@@ -136,9 +133,9 @@ loadAllPlayers = ->
   _.each hashes, (playerHash) ->
     IdleWrapper.api.player.auth.login playerHash
 
-adjustSpeed = ->
+adjustSpeed = (speed) ->
   clearInterval IdleWrapper.api.gameInstance.playerManager.interval
-  IdleWrapper.api.gameInstance.playerManager.DELAY_INTERVAL = DELAY_INTERVAL
+  IdleWrapper.api.gameInstance.playerManager.DELAY_INTERVAL = speed
   IdleWrapper.api.gameInstance.playerManager.beginGameLoop()
 
 gameLoop = ->
@@ -166,16 +163,12 @@ interactiveSession = ->
       cli.prompt()
     else if line is "c"
       do IdleWrapper.api.gameInstance.playerManager.beginGameLoop()
-      do gameLoop
     else
-      try
-        broadcast "Evaluating `#{line}`"
-        result = eval line
-        broadcast result
-        result?.then? (res) -> broadcast res.message
-      catch error
-        console.error error.name, error.message, error.stack
-      
+      broadcast "Evaluating `#{line}`"
+      result = eval line
+      broadcast result if not result.then
+      result?.then? (res) -> broadcast res.message
+
       cli.prompt()
   
 ## ## ## ## ## ## ## ##

@@ -75,6 +75,7 @@ class Event
     'limitless'
     'sacred'
     'sentimentality'
+    'sticky'
   ]
 
   t0: ['int', 'str', 'dex', 'con', 'wis', 'agi']

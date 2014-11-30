@@ -34,41 +34,45 @@ class EventHandler
 
       callback = (res) -> if res then player.emit "event", event
 
-      switch eventType
-        when 'yesno'
-          @doYesNo event, player, callback
-        when 'blessXp', 'forsakeXp'
-          (new allEvents.XpEvent @game, event, player).go()
+      try
+        switch eventType
+          when 'yesno'
+            @doYesNo event, player, callback
+          when 'blessXp', 'forsakeXp'
+            (new allEvents.XpEvent @game, event, player).go()
 
-        when 'blessXpParty', 'forsakeXpParty'
-          (new allEvents.XpPartyEvent @game, event, player).go()
+          when 'blessXpParty', 'forsakeXpParty'
+            (new allEvents.XpPartyEvent @game, event, player).go()
 
-        when 'blessGold', 'forsakeGold'
-          (new allEvents.GoldEvent @game, event, player).go()
+          when 'blessGold', 'forsakeGold'
+            (new allEvents.GoldEvent @game, event, player).go()
 
-        when 'blessGoldParty', 'forsakeGoldParty'
-          (new allEvents.GoldPartyEvent @game, event, player).go()
+          when 'blessGoldParty', 'forsakeGoldParty'
+            (new allEvents.GoldPartyEvent @game, event, player).go()
 
-        when 'blessItem', 'forsakeItem'
-          (new allEvents.ItemModEvent @game, event, player).go()
+          when 'blessItem', 'forsakeItem'
+            (new allEvents.ItemModEvent @game, event, player).go()
 
-        when 'findItem'
-          (new allEvents.FindItemEvent @game, event, player).go()
+          when 'findItem'
+            (new allEvents.FindItemEvent @game, event, player).go()
 
-        when 'merchant'
-          (new allEvents.MerchantEvent @game, event, player).go()
+          when 'merchant'
+            (new allEvents.MerchantEvent @game, event, player).go()
 
-        when 'party'
-          (new allEvents.PartyEvent @game, event, player).go()
+          when 'party'
+            (new allEvents.PartyEvent @game, event, player).go()
 
-        when 'enchant', 'tinker'
-          (new allEvents.EnchantEvent @game, event, player).go()
+          when 'enchant', 'tinker'
+            (new allEvents.EnchantEvent @game, event, player).go()
 
-        when 'flipStat'
-          (new allEvents.FlipStatEvent @game, event, player).go()
+          when 'flipStat'
+            (new allEvents.FlipStatEvent @game, event, player).go()
 
-        when 'battle'
-          (new allEvents.MonsterBattleEvent @game, event, player).go()
+          when 'battle'
+            (new allEvents.MonsterBattleEvent @game, event, player).go()
+
+      catch e
+        console.error e.stack
 
       player.recalculateStats()
 
