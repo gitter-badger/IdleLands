@@ -1,8 +1,8 @@
 {
     "parsed": [
         {
-            "lineNumber": 240,
-            "endLineNumber": 248,
+            "lineNumber": 241,
+            "endLineNumber": 249,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "desc": {
@@ -30,8 +30,8 @@
             }
         },
         {
-            "lineNumber": 258,
-            "endLineNumber": 266,
+            "lineNumber": 259,
+            "endLineNumber": 267,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "desc": {
@@ -59,8 +59,8 @@
             }
         },
         {
-            "lineNumber": 296,
-            "endLineNumber": 303,
+            "lineNumber": 297,
+            "endLineNumber": 304,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "desc": {
@@ -85,8 +85,8 @@
             }
         },
         {
-            "lineNumber": 307,
-            "endLineNumber": 315,
+            "lineNumber": 308,
+            "endLineNumber": 316,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "desc": {
@@ -114,8 +114,8 @@
             }
         },
         {
-            "lineNumber": 323,
-            "endLineNumber": 331,
+            "lineNumber": 324,
+            "endLineNumber": 332,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "desc": {
@@ -144,8 +144,8 @@
             }
         },
         {
-            "lineNumber": 338,
-            "endLineNumber": 346,
+            "lineNumber": 339,
+            "endLineNumber": 347,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -175,8 +175,8 @@
             }
         },
         {
-            "lineNumber": 351,
-            "endLineNumber": 359,
+            "lineNumber": 352,
+            "endLineNumber": 360,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "desc": {
@@ -204,8 +204,8 @@
             }
         },
         {
-            "lineNumber": 363,
-            "endLineNumber": 371,
+            "lineNumber": 364,
+            "endLineNumber": 372,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "desc": {
@@ -233,8 +233,8 @@
             }
         },
         {
-            "lineNumber": 376,
-            "endLineNumber": 384,
+            "lineNumber": 377,
+            "endLineNumber": 385,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "desc": {
@@ -262,8 +262,8 @@
             }
         },
         {
-            "lineNumber": 389,
-            "endLineNumber": 398,
+            "lineNumber": 390,
+            "endLineNumber": 399,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -297,8 +297,8 @@
             }
         },
         {
-            "lineNumber": 403,
-            "endLineNumber": 412,
+            "lineNumber": 404,
+            "endLineNumber": 413,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -332,8 +332,8 @@
             }
         },
         {
-            "lineNumber": 419,
-            "endLineNumber": 428,
+            "lineNumber": 420,
+            "endLineNumber": 429,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -367,8 +367,8 @@
             }
         },
         {
-            "lineNumber": 433,
-            "endLineNumber": 442,
+            "lineNumber": 434,
+            "endLineNumber": 443,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -402,8 +402,8 @@
             }
         },
         {
-            "lineNumber": 449,
-            "endLineNumber": 458,
+            "lineNumber": 450,
+            "endLineNumber": 459,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -437,8 +437,8 @@
             }
         },
         {
-            "lineNumber": 463,
-            "endLineNumber": 472,
+            "lineNumber": 464,
+            "endLineNumber": 473,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -473,8 +473,8 @@
             }
         },
         {
-            "lineNumber": 499,
-            "endLineNumber": 508,
+            "lineNumber": 500,
+            "endLineNumber": 509,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -509,8 +509,8 @@
             }
         },
         {
-            "lineNumber": 525,
-            "endLineNumber": 534,
+            "lineNumber": 526,
+            "endLineNumber": 535,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -545,8 +545,8 @@
             }
         },
         {
-            "lineNumber": 538,
-            "endLineNumber": 547,
+            "lineNumber": 539,
+            "endLineNumber": 548,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -581,8 +581,8 @@
             }
         },
         {
-            "lineNumber": 561,
-            "endLineNumber": 569,
+            "lineNumber": 562,
+            "endLineNumber": 570,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -613,8 +613,8 @@
             }
         },
         {
-            "lineNumber": 583,
-            "endLineNumber": 593,
+            "lineNumber": 584,
+            "endLineNumber": 594,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -653,8 +653,8 @@
             }
         },
         {
-            "lineNumber": 609,
-            "endLineNumber": 617,
+            "lineNumber": 610,
+            "endLineNumber": 618,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -686,8 +686,8 @@
             }
         },
         {
-            "lineNumber": 633,
-            "endLineNumber": 641,
+            "lineNumber": 634,
+            "endLineNumber": 642,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -718,8 +718,8 @@
             }
         },
         {
-            "lineNumber": 656,
-            "endLineNumber": 667,
+            "lineNumber": 657,
+            "endLineNumber": 668,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -762,8 +762,8 @@
             }
         },
         {
-            "lineNumber": 682,
-            "endLineNumber": 691,
+            "lineNumber": 683,
+            "endLineNumber": 692,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -798,8 +798,8 @@
             }
         },
         {
-            "lineNumber": 707,
-            "endLineNumber": 716,
+            "lineNumber": 708,
+            "endLineNumber": 717,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -834,8 +834,8 @@
             }
         },
         {
-            "lineNumber": 732,
-            "endLineNumber": 741,
+            "lineNumber": 733,
+            "endLineNumber": 742,
             "filePath": "ext/kurea/IdleLandsModule.coffee",
             "fileName": "IdleLandsModule.coffee",
             "example": [
@@ -1418,6 +1418,44 @@
             "name": {
                 "name": "name",
                 "basicInfo": "Personable"
+            },
+            "category": {
+                "name": "category",
+                "basicInfo": "Achievements"
+            },
+            "package": {
+                "name": "package",
+                "basicInfo": "Player"
+            }
+        },
+        {
+            "lineNumber": 6,
+            "endLineNumber": 15,
+            "filePath": "src/character/achievements/Territorial.coffee",
+            "fileName": "Territorial.coffee",
+            "reward": [
+                {
+                    "name": "reward",
+                    "basicInfo": "+2% STR"
+                },
+                {
+                    "name": "reward",
+                    "basicInfo": "+2% WIS"
+                }
+            ],
+            "prerequisite": [
+                {
+                    "name": "prerequisite",
+                    "basicInfo": "Explore 10*[n] region."
+                }
+            ],
+            "desc": {
+                "name": "desc",
+                "basicInfo": "This achievement is earned by exploring unique regions."
+            },
+            "name": {
+                "name": "name",
+                "basicInfo": "Territorial"
             },
             "category": {
                 "name": "category",
@@ -2220,6 +2258,114 @@
             "package": {
                 "name": "package",
                 "basicInfo": "Item"
+            }
+        },
+        {
+            "lineNumber": 459,
+            "endLineNumber": 466,
+            "filePath": "src/character/base/Character.coffee",
+            "fileName": "Character.coffee",
+            "desc": {
+                "name": "desc",
+                "basicInfo": "Sticky makes it harder to have your item be replaced",
+                "extendedInfo": "or easier, if you have negative sticky"
+            },
+            "name": {
+                "name": "name",
+                "basicInfo": "sticky"
+            },
+            "stacks": {
+                "name": "stacks",
+                "basicInfo": "yes"
+            },
+            "category": {
+                "name": "category",
+                "basicInfo": "Equipment Effects"
+            },
+            "package": {
+                "name": "package",
+                "basicInfo": "Item"
+            }
+        },
+        {
+            "lineNumber": 6,
+            "endLineNumber": 27,
+            "filePath": "src/character/classes/Archer.coffee",
+            "fileName": "Archer.coffee",
+            "statPerLevel": [
+                {
+                    "name": "statPerLevel",
+                    "type": "str",
+                    "basicInfo": "2"
+                },
+                {
+                    "name": "statPerLevel",
+                    "type": "dex",
+                    "basicInfo": "4"
+                },
+                {
+                    "name": "statPerLevel",
+                    "type": "con",
+                    "basicInfo": "2"
+                },
+                {
+                    "name": "statPerLevel",
+                    "type": "int",
+                    "basicInfo": "1"
+                },
+                {
+                    "name": "statPerLevel",
+                    "type": "wis",
+                    "basicInfo": "1"
+                },
+                {
+                    "name": "statPerLevel",
+                    "type": "agi",
+                    "basicInfo": "3"
+                }
+            ],
+            "desc": {
+                "name": "desc",
+                "basicInfo": "The Archer is a physical debuff/dps class. Their Focus stat increases critical chance by up to 50%, and allows access to powerful skills. Focus increases every turn and with use of the Take Aim skill, and decreases when the Archer is damaged as well as when it is spent."
+            },
+            "name": {
+                "name": "name",
+                "basicInfo": "Archer"
+            },
+            "physical": {
+                "name": "physical"
+            },
+            "dps": {
+                "name": "dps"
+            },
+            "hp": {
+                "name": "hp",
+                "basicInfo": "70+[level*10]+[con*6]"
+            },
+            "mp": {
+                "name": "mp",
+                "basicInfo": "30+[level*2]+[int*1]"
+            },
+            "special": {
+                "name": "special",
+                "basicInfo": "Focus",
+                "extendedInfo": "The Archer builds focus over time, resulting in devastating attacks if unchecked."
+            },
+            "itemScore": {
+                "name": "itemScore",
+                "basicInfo": "agi*1.2 + dex*1.6 + str*0.3 - int"
+            },
+            "minDamage": {
+                "name": "minDamage",
+                "basicInfo": "50%"
+            },
+            "category": {
+                "name": "category",
+                "basicInfo": "Classes"
+            },
+            "package": {
+                "name": "package",
+                "basicInfo": "Player"
             }
         },
         {
@@ -4670,6 +4816,34 @@
         {
             "lineNumber": 4,
             "endLineNumber": 11,
+            "filePath": "src/character/regions/FrigriTown.coffee",
+            "fileName": "FrigriTown.coffee",
+            "effect": [
+                {
+                    "name": "effect",
+                    "basicInfo": "Shops have very good items."
+                }
+            ],
+            "desc": {
+                "name": "desc",
+                "basicInfo": "This region has some nice wares."
+            },
+            "name": {
+                "name": "name",
+                "basicInfo": "Frigri Town"
+            },
+            "category": {
+                "name": "category",
+                "basicInfo": "Norkos"
+            },
+            "package": {
+                "name": "package",
+                "basicInfo": "World Regions"
+            }
+        },
+        {
+            "lineNumber": 4,
+            "endLineNumber": 11,
             "filePath": "src/character/regions/MaelesCaveArea.coffee",
             "fileName": "MaelesCaveArea.coffee",
             "effect": [
@@ -4805,6 +4979,34 @@
             "name": {
                 "name": "name",
                 "basicInfo": "Norkos Volcano Area"
+            },
+            "category": {
+                "name": "category",
+                "basicInfo": "Norkos"
+            },
+            "package": {
+                "name": "package",
+                "basicInfo": "World Regions"
+            }
+        },
+        {
+            "lineNumber": 4,
+            "endLineNumber": 11,
+            "filePath": "src/character/regions/RaburroTown.coffee",
+            "fileName": "RaburroTown.coffee",
+            "effect": [
+                {
+                    "name": "effect",
+                    "basicInfo": "Lots of shops"
+                }
+            ],
+            "desc": {
+                "name": "desc",
+                "basicInfo": "This region grants you a shopping mall. Of course, there is a little inflation here, but the variety!"
+            },
+            "name": {
+                "name": "name",
+                "basicInfo": "Raburro Town"
             },
             "category": {
                 "name": "category",
@@ -5911,6 +6113,553 @@
             "category": {
                 "name": "category",
                 "basicInfo": "Generalist"
+            },
+            "package": {
+                "name": "package",
+                "basicInfo": "Spells"
+            }
+        },
+        {
+            "lineNumber": 10,
+            "endLineNumber": 24,
+            "filePath": "src/character/spells/combat-skills/archer/AntimagicArrow.coffee",
+            "fileName": "AntimagicArrow.coffee",
+            "effect": [
+                {
+                    "name": "effect",
+                    "basicInfo": "Drains mp"
+                }
+            ],
+            "requirement": [
+                {
+                    "name": "requirement",
+                    "type": "class",
+                    "basicInfo": "Archer"
+                },
+                {
+                    "name": "requirement",
+                    "type": "Focus",
+                    "basicInfo": "25"
+                },
+                {
+                    "name": "requirement",
+                    "type": "level",
+                    "basicInfo": "42"
+                }
+            ],
+            "desc": {
+                "name": "desc",
+                "basicInfo": "This skill targets the enemy with the most mp, inflicting a moderate amount of damage and halving their mp."
+            },
+            "name": {
+                "name": "name",
+                "basicInfo": "anti-magic arrow"
+            },
+            "element": {
+                "name": "element",
+                "basicInfo": "physical"
+            },
+            "targets": {
+                "name": "targets",
+                "type": "enemy",
+                "basicInfo": "1",
+                "extendedInfo": "with most mp remaining"
+            },
+            "minDamage": {
+                "name": "minDamage",
+                "basicInfo": "0.4*[wis+dex]"
+            },
+            "maxDamage": {
+                "name": "maxDamage",
+                "basicInfo": "0.8*[wis+dex]"
+            },
+            "category": {
+                "name": "category",
+                "basicInfo": "Archer"
+            },
+            "package": {
+                "name": "package",
+                "basicInfo": "Spells"
+            }
+        },
+        {
+            "lineNumber": 9,
+            "endLineNumber": 22,
+            "filePath": "src/character/spells/combat-skills/archer/Multishot.coffee",
+            "fileName": "Multishot.coffee",
+            "requirement": [
+                {
+                    "name": "requirement",
+                    "type": "class",
+                    "basicInfo": "Archer"
+                },
+                {
+                    "name": "requirement",
+                    "type": "Focus",
+                    "basicInfo": "20"
+                },
+                {
+                    "name": "requirement",
+                    "type": "level",
+                    "basicInfo": "10"
+                }
+            ],
+            "desc": {
+                "name": "desc",
+                "basicInfo": "This spell fires twice, possibly at multiple different targets."
+            },
+            "name": {
+                "name": "name",
+                "basicInfo": "double shot"
+            },
+            "element": {
+                "name": "element",
+                "basicInfo": "physical"
+            },
+            "targets": {
+                "name": "targets",
+                "type": "enemy",
+                "basicInfo": "1-2",
+                "extendedInfo": "This spell will fail subsequent hits if all valid targets are dead."
+            },
+            "minDamage": {
+                "name": "minDamage",
+                "basicInfo": "[dex*0.2]"
+            },
+            "maxDamage": {
+                "name": "maxDamage",
+                "basicInfo": "[dex*0.3]"
+            },
+            "category": {
+                "name": "category",
+                "basicInfo": "Archer"
+            },
+            "package": {
+                "name": "package",
+                "basicInfo": "Spells"
+            }
+        },
+        {
+            "lineNumber": 24,
+            "endLineNumber": 36,
+            "filePath": "src/character/spells/combat-skills/archer/Multishot.coffee",
+            "fileName": "Multishot.coffee",
+            "requirement": [
+                {
+                    "name": "requirement",
+                    "type": "class",
+                    "basicInfo": "Archer"
+                },
+                {
+                    "name": "requirement",
+                    "type": "Focus",
+                    "basicInfo": "25"
+                },
+                {
+                    "name": "requirement",
+                    "type": "level",
+                    "basicInfo": "30"
+                }
+            ],
+            "desc": {
+                "name": "desc",
+                "basicInfo": "This spell fires thrice, possibly at multiple different targets."
+            },
+            "name": {
+                "name": "name",
+                "basicInfo": "triple shot"
+            },
+            "element": {
+                "name": "element",
+                "basicInfo": "physical"
+            },
+            "targets": {
+                "name": "targets",
+                "type": "enemy",
+                "basicInfo": "1-3",
+                "extendedInfo": "This spell will fail subsequent hits if all valid targets are dead."
+            },
+            "minDamage": {
+                "name": "minDamage",
+                "basicInfo": "[dex*0.2*2]"
+            },
+            "maxDamage": {
+                "name": "maxDamage",
+                "basicInfo": "[dex*0.3*2]"
+            },
+            "package": {
+                "name": "package",
+                "basicInfo": "Spells"
+            }
+        },
+        {
+            "lineNumber": 38,
+            "endLineNumber": 51,
+            "filePath": "src/character/spells/combat-skills/archer/Multishot.coffee",
+            "fileName": "Multishot.coffee",
+            "requirement": [
+                {
+                    "name": "requirement",
+                    "type": "class",
+                    "basicInfo": "Archer"
+                },
+                {
+                    "name": "requirement",
+                    "type": "Focus",
+                    "basicInfo": "30"
+                },
+                {
+                    "name": "requirement",
+                    "type": "level",
+                    "basicInfo": "50"
+                }
+            ],
+            "desc": {
+                "name": "desc",
+                "basicInfo": "This spell fires four times, possibly at multiple different targets."
+            },
+            "name": {
+                "name": "name",
+                "basicInfo": "quadruple shot"
+            },
+            "element": {
+                "name": "element",
+                "basicInfo": "physical"
+            },
+            "targets": {
+                "name": "targets",
+                "type": "enemy",
+                "basicInfo": "1-4",
+                "extendedInfo": "This spell will fail subsequent hits if all valid targets are dead."
+            },
+            "minDamage": {
+                "name": "minDamage",
+                "basicInfo": "[dex*0.2*3]"
+            },
+            "maxDamage": {
+                "name": "maxDamage",
+                "basicInfo": "[dex*0.3*3]"
+            },
+            "category": {
+                "name": "category",
+                "basicInfo": "Archer"
+            },
+            "package": {
+                "name": "package",
+                "basicInfo": "Spells"
+            }
+        },
+        {
+            "lineNumber": 9,
+            "endLineNumber": 23,
+            "filePath": "src/character/spells/combat-skills/archer/RelentlessAssault.coffee",
+            "fileName": "RelentlessAssault.coffee",
+            "effect": [
+                {
+                    "name": "effect",
+                    "basicInfo": "-25 Focus per round"
+                },
+                {
+                    "name": "effect",
+                    "basicInfo": "+2 physical attack per round"
+                }
+            ],
+            "requirement": [
+                {
+                    "name": "requirement",
+                    "type": "class",
+                    "basicInfo": "Archer"
+                },
+                {
+                    "name": "requirement",
+                    "type": "Focus",
+                    "basicInfo": "30",
+                    "extendedInfo": "only cast if Focus >= 70"
+                },
+                {
+                    "name": "requirement",
+                    "type": "level",
+                    "basicInfo": "50"
+                }
+            ],
+            "desc": {
+                "name": "desc",
+                "basicInfo": "The caster performs two additional attacks every round, losing focus gradually."
+            },
+            "name": {
+                "name": "name",
+                "basicInfo": "RelentlessAssault"
+            },
+            "element": {
+                "name": "element",
+                "basicInfo": "physical"
+            },
+            "targets": {
+                "name": "targets",
+                "type": "self"
+            },
+            "duration": {
+                "name": "duration",
+                "basicInfo": "10 rounds",
+                "extendedInfo": "cancelled if focus drops below 25"
+            },
+            "category": {
+                "name": "category",
+                "basicInfo": "Archer"
+            },
+            "package": {
+                "name": "package",
+                "basicInfo": "Spells"
+            }
+        },
+        {
+            "lineNumber": 10,
+            "endLineNumber": 25,
+            "filePath": "src/character/spells/combat-skills/archer/Shattershot.coffee",
+            "fileName": "Shattershot.coffee",
+            "effect": [
+                {
+                    "name": "effect",
+                    "basicInfo": "shatter"
+                },
+                {
+                    "name": "effect",
+                    "basicInfo": "prone"
+                }
+            ],
+            "requirement": [
+                {
+                    "name": "requirement",
+                    "type": "class",
+                    "basicInfo": "Archer"
+                },
+                {
+                    "name": "requirement",
+                    "type": "Focus",
+                    "basicInfo": "25"
+                },
+                {
+                    "name": "requirement",
+                    "type": "level",
+                    "basicInfo": "35"
+                }
+            ],
+            "desc": {
+                "name": "desc",
+                "basicInfo": "This skill deals a large amount of damage, inflicting shatter and prone."
+            },
+            "name": {
+                "name": "name",
+                "basicInfo": "shattershot"
+            },
+            "element": {
+                "name": "element",
+                "basicInfo": "physical"
+            },
+            "targets": {
+                "name": "targets",
+                "type": "enemy",
+                "basicInfo": "1"
+            },
+            "minDamage": {
+                "name": "minDamage",
+                "basicInfo": "0.75*[str+dex]"
+            },
+            "maxDamage": {
+                "name": "maxDamage",
+                "basicInfo": "1.5*[str+dex]"
+            },
+            "category": {
+                "name": "category",
+                "basicInfo": "Archer"
+            },
+            "package": {
+                "name": "package",
+                "basicInfo": "Spells"
+            }
+        },
+        {
+            "lineNumber": 8,
+            "endLineNumber": 22,
+            "filePath": "src/character/spells/combat-skills/archer/SmokeBomb.coffee",
+            "fileName": "SmokeBomb.coffee",
+            "effect": [
+                {
+                    "name": "effect",
+                    "basicInfo": "-40% DEX"
+                }
+            ],
+            "requirement": [
+                {
+                    "name": "requirement",
+                    "type": "class",
+                    "basicInfo": "Archer"
+                },
+                {
+                    "name": "requirement",
+                    "type": "mp",
+                    "basicInfo": "80"
+                },
+                {
+                    "name": "requirement",
+                    "type": "level",
+                    "basicInfo": "10"
+                },
+                {
+                    "name": "requirement",
+                    "type": "Focus",
+                    "basicInfo": "< 50"
+                }
+            ],
+            "desc": {
+                "name": "desc",
+                "basicInfo": "The caster throws a smoke bomb at 1-3 enemies, reducing their DEX. Only used at low Focus."
+            },
+            "name": {
+                "name": "name",
+                "basicInfo": "smoke bomb"
+            },
+            "element": {
+                "name": "element",
+                "basicInfo": "physical"
+            },
+            "targets": {
+                "name": "targets",
+                "type": "enemy",
+                "basicInfo": "2-5"
+            },
+            "duration": {
+                "name": "duration",
+                "basicInfo": "3 rounds"
+            },
+            "category": {
+                "name": "category",
+                "basicInfo": "Archer"
+            },
+            "package": {
+                "name": "package",
+                "basicInfo": "Spells"
+            }
+        },
+        {
+            "lineNumber": 8,
+            "endLineNumber": 21,
+            "filePath": "src/character/spells/combat-skills/archer/TakeAim.coffee",
+            "fileName": "TakeAim.coffee",
+            "effect": [
+                {
+                    "name": "effect",
+                    "basicInfo": "+50 focus"
+                }
+            ],
+            "requirement": [
+                {
+                    "name": "requirement",
+                    "type": "class",
+                    "basicInfo": "Archer"
+                },
+                {
+                    "name": "requirement",
+                    "type": "mp",
+                    "basicInfo": "35"
+                },
+                {
+                    "name": "requirement",
+                    "type": "level",
+                    "basicInfo": "7"
+                },
+                {
+                    "name": "requirement",
+                    "type": "Focus",
+                    "basicInfo": "< 50"
+                }
+            ],
+            "desc": {
+                "name": "desc",
+                "basicInfo": "The caster takes aim, increasing their Focus. Can only be used when at low Focus."
+            },
+            "name": {
+                "name": "name",
+                "basicInfo": "hurricane"
+            },
+            "element": {
+                "name": "element",
+                "basicInfo": "physical"
+            },
+            "targets": {
+                "name": "targets",
+                "type": "self"
+            },
+            "category": {
+                "name": "category",
+                "basicInfo": "Archer"
+            },
+            "package": {
+                "name": "package",
+                "basicInfo": "Spells"
+            }
+        },
+        {
+            "lineNumber": 8,
+            "endLineNumber": 23,
+            "filePath": "src/character/spells/combat-skills/archer/VenomCoating.coffee",
+            "fileName": "VenomCoating.coffee",
+            "effect": [
+                {
+                    "name": "effect",
+                    "basicInfo": "venom"
+                },
+                {
+                    "name": "effect",
+                    "basicInfo": "poison"
+                }
+            ],
+            "requirement": [
+                {
+                    "name": "requirement",
+                    "type": "class",
+                    "basicInfo": "Archer"
+                },
+                {
+                    "name": "requirement",
+                    "type": "mp",
+                    "basicInfo": "150"
+                },
+                {
+                    "name": "requirement",
+                    "type": "level",
+                    "basicInfo": "15"
+                },
+                {
+                    "name": "requirement",
+                    "type": "Focus",
+                    "basicInfo": "< 40"
+                }
+            ],
+            "desc": {
+                "name": "desc",
+                "basicInfo": "This spell gives one ally poison and venom temporarily. Only used at low Focus."
+            },
+            "name": {
+                "name": "name",
+                "basicInfo": "VenomCoating"
+            },
+            "element": {
+                "name": "element",
+                "basicInfo": "physical"
+            },
+            "targets": {
+                "name": "targets",
+                "type": "ally",
+                "basicInfo": "1"
+            },
+            "duration": {
+                "name": "duration",
+                "basicInfo": "4 rounds"
+            },
+            "category": {
+                "name": "category",
+                "basicInfo": "Archer"
             },
             "package": {
                 "name": "package",
@@ -7779,7 +8528,7 @@
             ],
             "desc": {
                 "name": "desc",
-                "basicInfo": "This skill does very little damage, but leaves every combat effect available on the target. Currently, it will only prone the target. Poison and other effects may happen later."
+                "basicInfo": "This skill does very little damage, but leaves every combat effect available on the target. Currently, it will inflict Prone, Poison, Venom, and Shatter on the target. It's pretty nasty."
             },
             "name": {
                 "name": "name",
@@ -11003,11 +11752,11 @@
             }
         }
     ],
-    "startTime": 1417366742021,
-    "endTime": 1417366742072,
+    "startTime": 1417499424903,
+    "endTime": 1417499424958,
     "git": {
-        "short": "6c68285",
-        "long": "6c6828577572865c2af7b1c164d94d525dd5db74",
+        "short": "ca912c2",
+        "long": "ca912c255cc2180f77e42b5be157bc3073a06637",
         "branch": "master",
         "tag": "0.5.0"
     },
@@ -11628,6 +12377,12 @@
         },
         "teleports.json": {
             "towns": {
+                "frigri": {
+                    "map": "Norkos",
+                    "formalName": "Frigri",
+                    "x": 133,
+                    "y": 160
+                },
                 "norkos": {
                     "map": "Norkos",
                     "formalName": "Norkos",
@@ -11770,14 +12525,20 @@
                     "x": 92,
                     "y": 11
                 },
-                "minotaur": {
+                "minotaurmaze": {
                     "map": "Norkos",
                     "formalName": "the Minotaur Maze entrance",
-                    "x": 139,
-                    "y": 65
+                    "x": 238,
+                    "y": 188
                 }
             },
             "trainers": {
+                "archer": {
+                    "map": "Norkos",
+                    "formalName": "the Archer Trainer",
+                    "x": 141,
+                    "y": 146
+                },
                 "barbarian": {
                     "map": "Norkos",
                     "formalName": "the Barbarian Trainer",
@@ -11815,16 +12576,22 @@
                     "y": 23
                 },
                 "bitomancer": {
-                    "map": "Minotaur Maze -3",
+                    "map": "Norkos",
                     "formalName": "the Bitomancer Trainer",
-                    "x": 22,
-                    "y": 1
+                    "x": 165,
+                    "y": 154
                 },
                 "monster": {
                     "map": "Mythos -2",
                     "formalName": "the Monster Trainer",
                     "x": 6,
                     "y": 19
+                },
+                "magicalmonster": {
+                    "map": "Minotaur Maze -3",
+                    "formalName": "the MagicalMonster Trainer",
+                    "x": 22,
+                    "y": 2
                 },
                 "pirate": {
                     "map": "Norkos",
